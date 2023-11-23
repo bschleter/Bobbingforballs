@@ -11,11 +11,11 @@ export const homepageText = `
   <p>Hustle Champ" is not just a shirt; it's a way of life. Except it's only 3/65 days of the year, so more like a vacation.</p>
   <p>Schleter talks like outer space. You know it’s out there, but it doesn’t make any sense.</p>
   <p>Because, in our league drafting  is like being in a drafty room. It's cold, slightly uncomfortable, and Bob's usually asleep somewhere in the corner.</p>
-  <p>Which is why they say a fantasy league is like a family. Which our family reunions involve a lot of questioning each other's life choices. Especially Schleter's.</p>
+  <p>Which is why they say a fantasy league is like a family. Our family reunions involve a lot of questioning each other's life choices. Especially Schleter's.</p>
   <p>Like Schlete pretending to be deaf at a strip club, it was like playing charades where everyone loses.</p>
   <p>Dave and Schleter in our fantasy league are like coins in a fountain. They make a splash, but they never come back out on top.</p>
-  <p></p>
-  <p></p>
+  <p>Bob says things so wild when drunk, even his beer is like, 'Man, I need a drink.'</p>
+  <p>Schleter's card game 'Aces' has rules so bizarre, it's like the game was invented by someone on a three-day bender. Oh wait, it was</p>
   <p></p>
   <p></p>
   <p></p>
