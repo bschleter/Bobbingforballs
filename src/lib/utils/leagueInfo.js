@@ -7,14 +7,14 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>In our league, winning is like buying a donut. Sometimes you end up with the one with sprinkles, and other times, Ryan wins. Ryan is the group's alarm clock. Necessary, but you really don't want to hear him win.</p>
+  <p>In our league, winning is like buying a donut. Sometimes you end up with the one with sprinkles, and other times, Ryan wins. </p>
+  <p>Ryan is the group's alarm clock. Necessary, but you really don't want to hear him win.</p>
   <p>Hustle Champ" is not just a shirt; it's a way of life. Except it's only 3/65 days of the year, so more like a vacation.</p>
-  <p>Schleter talks like outer space. You know it’s out there, but it doesn’t make any sense.</p>
   <p>Because, in our league drafting  is like being in a drafty room. It's cold, slightly uncomfortable, and Bob's usually asleep somewhere in the corner.</p>
   <p>Which is why they say a fantasy league is like a family. Our family reunions involve a lot of questioning each other's life choices. Especially Schleter's.</p>
   <p>Like Schlete pretending to be deaf at a strip club, it was like playing charades where everyone loses.</p>
   <p>Dave and Schleter in our fantasy league are like coins in a fountain. They make a splash, but they never come back out on top.</p>
-  <p>Bob says things so wild when drunk, even his beer is like, 'Man, I need a drink.'</p>
+  <p>Bob says Bob things when he's drunk, even his beer is like, 'Man, I need a drink.'</p>
   <p>Schleter's card game 'Aces' has rules so bizarre, it's like the game was invented by someone on a three-day bender. Oh wait, it was</p>
   <p></p>
   <p></p>
@@ -31,13 +31,13 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-    // {
-    //   "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Your Name",
+     {
+       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "name": "Terry3outof6524outof7",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Brooklyn", // (optional)
-    //   "bio": "Lorem ipsum...",
-    //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "location": "Lexington", // (optional)
+       "bio": "Schleter talks like outer space. You know it’s out there, but it doesn’t make any sense.",
+       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
     //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
     //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -52,7 +52,7 @@ export const managers = [
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    // },
+       }
     // {
     //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     //   "name": "Your Name",
