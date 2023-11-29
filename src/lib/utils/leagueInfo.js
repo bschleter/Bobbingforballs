@@ -7,20 +7,29 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>
-  <p>In our league, winning is like buying a donut. Sometimes you end up with the one with sprinkles, and other times, Ryan wins. </p>
-  <p>Ryan is the group's alarm clock. Necessary, but you really don't want to hear him win.</p>
-  <p>Hustle Champ" is not just a shirt; it's a way of life. Except it's only 3/65 days of the year, so more like a vacation.</p>
-  <p></p>
-  <p>Which is why they say a fantasy league is like a family. Our family reunions involve a lot of questioning each other's life choices. Especially Schleter's.</p>
-  <p>Like Schlete pretending to be deaf at a strip club, it was like playing charades where everyone loses.</p>
-  <p>Dave and Schleter in our fantasy league are like coins in a fountain. They make a splash, but they never come back out on top.</p>
-  <p>Bob says Bob things when he's drunk, even his beer is like, 'Man, I need a drink.'</p>
-  <p>Schleter's card game 'Aces' has rules so bizarre, it's like the game was invented by someone on a three-day bender. Oh wait, it was</p>
-  <p></p>
-  <p></p>
-  <p></p>
+  <p>Well hi. You've found your way to our digital huddle – a place where friends and football cum together like the high school fieldhouse. This isn't just any fantasy league; it's our fantasy league, where the inside jokes are as plentiful as Schleter’s Facebook burner accounts.</p>
+
+  <h2>A Roster of Reliably Unpredictable Characters</h2>
+  <p>Meet our league members: a unique blend of personalities, each bringing their own brand of lumbersome charm to the arena.</p>
+  <p>We have Jeremy and Bob, brothers-in-law locked in a never-ending debate about, well, everything.</p>
+  <p>You got Bob who "goes big or goes home," except he often does both at the same time. Bob's fantasy strategy is grab whatever's closest and hope for the best. He's as likely to draft Adrian Peterson as Schleter, if he doesn’t fall asleep mid-pick first.</p>
+  <p>Then there's Jeremy, the yin to Bob's yang. His debates with Bob are legendary – they're like watching two Bobs fight over a nut. Jeremy treats his fantasy team like it's a matter of national security, and will ensure luck grants him good fortune, as he is the commish after all. Damned to be all. But no one else wants to be it. Hell no.</p>
+  <p>There's Schleter, who’s as unpredictable as a Wi-Fi signal. You never know if he's going to show up, vanish, or do both. With him it’s either collusion or confusion, he doesn't know the difference. Have him pick 7th.</p>
+  <p>In our league, winning is like buying a donut. Sometimes you end up with the one with sprinkles, and other times you get Ryan. Ryan is the group's alarm clock. Necessary, but you really don't want to hear him win.</p>
+  <p>You have our lovely Dave. He's the only person we know who can pick a full roster of players and still end up with a team that's on a bye week. But here’s the thing about Dave – he's the heart of our league. He takes every loss with a grin and every joke at his expense like a Hustle Champ. His unwavering good spirits in the face of constant defeat is the stuff of legend. He might never win the trophy, but he's definitely clinched the title of 'Hustle Champ’.</p>
+  <p>Don’t forget Josh, the one who is still wondering himself how he got roped into this. He's like the guy who walks into the wrong classroom and just decides to stay for the lecture. It’s ok, he’s the hot one in class we all like looking at.</p>
+  <p>Brian, our engineer by day and party legend by night, reminds us that life’s about balance – or at least about balancing a good margarita. I don’t want to say anything bad about Brian. Plus you can’t. Besides that one time he ran over a young child.</p>
+  <p>Brothers Austin and Young Brandon are our die-hard Bears fans. Their optimism is a beacon of hope...until Brandon calls in the ESPN to complain about Jay Cutler. “We don’t want you to go outside and scream Brandon.”</p>
+  <p>And, of course, Anne. She’s the quiet storm of the league, her victories speaking louder than her words. That’s not loud. Her play and jokes are quality, precise, and consistent, like a BMW. However she’s competing against Geo Trackers and Bob.</p>
+
+  <h2>Where Every Draft Pick is a Wild Guess</h2>
+  <p>In our league, drafting a player is less about strategy and more about hoping your pick doesn’t end up on the injured list five minutes later. We navigate our fantasy app with the grace of a toddler using a smartphone – enthusiastically, but mostly confused.</p>
+
+  <h2>End Zone or Friend Zone?</h2>
+  <p>So, here we are, ready to embark on another season of fantasy football mayhem. Will Schleter show up this week? Will Bob stay awake for the entire draft? Can Jeremy and Bob go an entire meeting without bickering? Spoiler alert: probably not.</p>
+  <p>But that’s what makes our league special. It’s not just about football; it’s about friendship, fun, and finding new and creative ways to tease each other. Here’s to another season of laughs, gaffes, and the eternal question: “Wait, which Brandon was that again?”</p>
 `;
+
 
 /*   STEP 3   */
 /*
